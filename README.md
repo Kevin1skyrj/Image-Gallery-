@@ -1,2 +1,4 @@
 # Image-Gallery-
-My first repository on github
+Github Repo for Image Gallery
+Webwiz Induction Task
+Languages Used: HTML, CSS and JavaScript 
